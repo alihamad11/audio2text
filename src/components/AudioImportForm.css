@@ -1,0 +1,43 @@
+body {
+    background: linear-gradient(to left, rgb(165, 165, 165),rgb(165, 165, 165));
+  }
+
+  .input-field {
+    background-color: white;
+    border-radius: 5px;
+    padding: 20px;
+    width: 500px;
+    margin: 20px auto;
+    font-size: 30px;
+  }
+
+  .transcribe-button {
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+    padding: 10px 20px;
+    cursor: pointer;
+    margin-top: 20px;
+    
+  } 
+  
+
+  audio {
+    width: 500px;
+    margin:auto;
+  }
+  .audio-controls {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  }
+  
+  .audio-player {
+    margin-bottom: 20px;
+  }
+  
+  .transcription {
+    text-align: center;
+    
+  }
