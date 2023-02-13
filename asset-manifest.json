@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/audio2text/static/css/main.cb326afb.css",
+    "main.js": "/audio2text/static/js/main.7712f975.js",
+    "static/js/787.db134a6a.chunk.js": "/audio2text/static/js/787.db134a6a.chunk.js",
+    "index.html": "/audio2text/index.html",
+    "main.cb326afb.css.map": "/audio2text/static/css/main.cb326afb.css.map",
+    "main.7712f975.js.map": "/audio2text/static/js/main.7712f975.js.map",
+    "787.db134a6a.chunk.js.map": "/audio2text/static/js/787.db134a6a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cb326afb.css",
+    "static/js/main.7712f975.js"
+  ]
+}
